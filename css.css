@@ -1,0 +1,7 @@
+.spoiler-bl{
+  float: left;
+  width: 30px;
+}
+.spoiler{
+  display: none;
+}
